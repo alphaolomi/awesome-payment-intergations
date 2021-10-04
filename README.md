@@ -1,5 +1,7 @@
 # awesome-payment-intergations
 
+Curation if different payments integration packages and libraries for different Providers and Vendors
+
 ## Payments Intergrations
 
 ## Go
