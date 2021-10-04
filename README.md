@@ -2,6 +2,13 @@
 
 ## Payments Intergrations
 
+## Go
+
+- https://github.com/techcraftlabs/tigopesa
+- https://github.com/techcraftlabs/mpesa
+- https://github.com/techcraftlabs/airtel
+- https://github.com/techcraftlabs/mna  Identify mobile number assignment in TZ
+
 ## php/laravel
 
 Push USSD
