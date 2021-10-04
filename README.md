@@ -25,3 +25,5 @@ Selcom
 
 
 ## Python
+- https://kalebu.github.io/python-pesa/
+- https://github.com/Kalebu/tigopesa
