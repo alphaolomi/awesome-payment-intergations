@@ -29,3 +29,5 @@ Selcom
 ## Python
 - https://kalebu.github.io/python-pesa/
 - https://github.com/Kalebu/tigopesa
+
+- https://github.com/devmedtz/django-nmb A Django application which assist on integration of your web application with NMB BANK Merchant payment gateway
