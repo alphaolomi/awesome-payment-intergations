@@ -1,9 +1,35 @@
-# Introduction
+# Awesome Payment Intergations
 
-Awesome payment integrations collected and curated by **Alpha Olomi**.
+Curation if different payments integration packages and libraries for different Providers and Vendors
 
-The collection consists of different payments integration packages and libraries for different Providers and Vendor for different libraries
+## Payments Intergrations
 
-# Contribution
+## Go
 
-Fork the [repository](https://github.com/alphaolomi/awesome-payment-intergations)
+- https://github.com/techcraftlabs/tigopesa
+- https://github.com/techcraftlabs/mpesa
+- https://github.com/techcraftlabs/airtel
+- https://github.com/techcraftlabs/mna Identify mobile number assignment in TZ
+
+## php/laravel
+
+Push USSD
+
+- https://github.com/tumainimosha/laravel-mpesa-push
+- https://github.com/tumainimosha/laravel-tigopesa-push
+
+Mpesa OpenAPI
+
+- https://github.com/openpesa/php-pesa
+- https://github.com/openpesa/laravel-pesa
+
+Selcom
+
+- https://github.com/bryceandy/laravel-selcom
+
+## Python
+
+- https://kalebu.github.io/python-pesa/
+- https://github.com/Kalebu/tigopesa
+
+- https://github.com/devmedtz/django-nmb A Django application which assist on integration of your web application with NMB BANK Merchant payment gateway
