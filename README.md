@@ -1,6 +1,6 @@
 # Awesome Payment Intergations
 
-Curation if different payments integration packages and libraries for different Providers and Vendors
+Curation of different payments integration packages and libraries for different Providers and Vendors
 
 ## Payments Intergrations
 
@@ -26,6 +26,11 @@ Mpesa OpenAPI
 Selcom
 
 - https://github.com/bryceandy/laravel-selcom
+
+DPO
+
+- https://github.com/Zepson-Technologies/dpo-php
+- https://github.com/Zepson-Technologies/dpo-laravel
 
 ## Python
 
