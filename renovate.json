@@ -1,0 +1,8 @@
+{
+  "separateMajorMinor": true,
+  "extends": [
+    "schedule:earlyMondays",
+    ":preserveSemverRanges",
+    "group:all"
+  ]
+}
