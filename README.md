@@ -1,8 +1,8 @@
-# Awesome Payment Intergations
+# Awesome Payment Integrations
 
-Curation of different payments integration packages and libraries for different Providers and Vendors
+Curation of different payment integrations packages and libraries for different providers and vendors
 
-## Payments Intergrations
+## Payment Integrations
 
 ## Go
 
@@ -11,7 +11,7 @@ Curation of different payments integration packages and libraries for different 
 - https://github.com/techcraftlabs/airtel
 - https://github.com/techcraftlabs/mna Identify mobile number assignment in TZ
 
-## php/laravel
+## PHP/Laravel
 
 Push USSD
 
@@ -41,4 +41,4 @@ DPO
 - https://kalebu.github.io/python-pesa/
 - https://github.com/Kalebu/tigopesa
 
-- https://github.com/devmedtz/django-nmb A Django application which assist on integration of your web application with NMB BANK Merchant payment gateway
+- https://github.com/devmedtz/django-nmb A Django application that assists the integration of your web application with NMB BANK Merchant payment gateway
