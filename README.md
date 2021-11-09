@@ -32,6 +32,10 @@ DPO
 - https://github.com/Zepson-Technologies/dpo-php
 - https://github.com/Zepson-Technologies/dpo-laravel
 
+## Misc
+
+- https://github.com/devmedtz/whmcs-tigopesa  Enables the Tigopesa Payment Mode in the WHMCS 
+
 ## Python
 
 - https://kalebu.github.io/python-pesa/
