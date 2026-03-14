@@ -1,0 +1,24 @@
+id: provider-azampay
+entity_type: provider
+category: psp
+name: AzamPay
+provider: null
+region: East Africa
+countries:
+  - Tanzania
+languages:
+  - Go
+  - HTTP API
+integration_types:
+  - API
+  - SDK
+maintainer_type: official
+repo_url: null
+docs_url: null
+website_url: https://azampay.co.tz
+status: active
+notes: PSP focused on Tanzania with community-maintained Go integrations.
+tags:
+  - azampay
+  - tanzania
+  - psp

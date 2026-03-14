@@ -1,0 +1,23 @@
+id: sdk-python-pesa
+entity_type: sdk
+category: sdk
+name: Python Pesa
+provider: M-Pesa (Vodacom)
+region: East Africa
+countries:
+  - Tanzania
+languages:
+  - Python
+integration_types:
+  - API
+  - SDK
+maintainer_type: community
+repo_url: null
+docs_url: https://kalebu.github.io/python-pesa/
+website_url: null
+status: active
+notes: Python documentation and library resource for M-Pesa style integrations.
+tags:
+  - mpesa
+  - python
+  - sdk

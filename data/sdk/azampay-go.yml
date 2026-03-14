@@ -1,0 +1,22 @@
+id: sdk-azampay-go
+entity_type: sdk
+category: sdk
+name: AzamPay SDK for Go
+provider: AzamPay
+region: East Africa
+countries:
+  - Tanzania
+languages:
+  - Go
+integration_types:
+  - SDK
+maintainer_type: community
+repo_url: https://github.com/elirehema/azampay
+docs_url: https://github.com/elirehema/azampay
+website_url: null
+status: active
+notes: Community Go package for AzamPay integrations.
+tags:
+  - azampay
+  - go
+  - sdk

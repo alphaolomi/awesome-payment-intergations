@@ -2,12 +2,16 @@
 sidebar_position: 1
 ---
 
-# Introduction
+# Awesome African Payment Integrations
 
-Awesome payment integrations collected and curated by [@AlphaOlomi](https://github.com/alphaolomi).
+A curated index of African payment providers, mobile money APIs, and SDKs.
 
-The collection consists of different payments integration packages and libraries for different Providers and Vendor for different libraries
+The catalogue is organized for faster discovery:
 
-# Contribution
+`Region -> Country -> Provider -> SDK/Library`
 
-Fork the [repository](https://github.com/alphaolomi/awesome-payment-intergations)
+Current focus includes East Africa and Pan-African payment systems, with clear `official` vs `community` maintainer labels.
+
+## Contribution
+
+Fork the [repository](https://github.com/alphaolomi/awesome-payment-intergations) and submit provider or SDK records in `data/` using the schema in `data/SCHEMA.md`.

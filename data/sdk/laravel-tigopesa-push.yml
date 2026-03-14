@@ -1,0 +1,24 @@
+id: sdk-laravel-tigopesa-push
+entity_type: sdk
+category: sdk
+name: Laravel Tigo Pesa Push
+provider: Tigo Pesa
+region: East Africa
+countries:
+  - Tanzania
+languages:
+  - Laravel
+  - PHP
+integration_types:
+  - Push USSD
+  - SDK
+maintainer_type: community
+repo_url: https://github.com/tumainimosha/laravel-tigopesa-push
+docs_url: https://github.com/tumainimosha/laravel-tigopesa-push
+website_url: null
+status: active
+notes: Community Laravel package for Tigo Pesa push flows.
+tags:
+  - tigo-pesa
+  - laravel
+  - tanzania

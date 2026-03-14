@@ -1,0 +1,26 @@
+id: provider-dpo-group
+entity_type: provider
+category: psp
+name: DPO Group
+provider: null
+region: Pan-African
+countries:
+  - Tanzania
+  - Kenya
+  - Uganda
+languages:
+  - PHP
+  - Laravel
+integration_types:
+  - API
+  - SDK
+maintainer_type: official
+repo_url: null
+docs_url: null
+website_url: https://dpogroup.com
+status: active
+notes: Pan-African payment provider represented by community PHP and Laravel packages.
+tags:
+  - dpo
+  - pan-african
+  - psp

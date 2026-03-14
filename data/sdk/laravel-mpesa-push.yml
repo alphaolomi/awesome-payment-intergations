@@ -1,0 +1,24 @@
+id: sdk-laravel-mpesa-push
+entity_type: sdk
+category: sdk
+name: Laravel M-Pesa Push
+provider: M-Pesa (Vodacom)
+region: East Africa
+countries:
+  - Tanzania
+languages:
+  - Laravel
+  - PHP
+integration_types:
+  - Push USSD
+  - SDK
+maintainer_type: community
+repo_url: https://github.com/tumainimosha/laravel-mpesa-push
+docs_url: https://github.com/tumainimosha/laravel-mpesa-push
+website_url: null
+status: active
+notes: Community Laravel package for M-Pesa push transactions.
+tags:
+  - mpesa
+  - laravel
+  - tanzania

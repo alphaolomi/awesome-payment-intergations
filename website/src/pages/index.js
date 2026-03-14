@@ -18,7 +18,7 @@ function HomepageHeader() {
             className="button button--secondary button--lg"
             to="/docs/intro"
           >
-            Browse
+            Explore the index
           </Link>
         </div>
       </div>
@@ -30,8 +30,8 @@ export default function Home() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title={`Payment Integrations`}
-      description="Description will go into a meta tag in <head />"
+      title="Awesome African Payment Integrations"
+      description="A curated index of African payment providers, mobile money APIs, and integration SDKs."
     >
       <HomepageHeader />
       <main>

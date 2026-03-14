@@ -1,0 +1,25 @@
+id: sdk-dpo-php
+entity_type: sdk
+category: sdk
+name: DPO PHP
+provider: DPO Group
+region: Pan-African
+countries:
+  - Tanzania
+  - Kenya
+  - Uganda
+languages:
+  - PHP
+integration_types:
+  - API
+  - SDK
+maintainer_type: community
+repo_url: https://github.com/Zepson-Technologies/dpo-php
+docs_url: https://github.com/Zepson-Technologies/dpo-php
+website_url: null
+status: active
+notes: Community PHP package for DPO integrations.
+tags:
+  - dpo
+  - php
+  - psp

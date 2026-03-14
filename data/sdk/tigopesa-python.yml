@@ -1,0 +1,23 @@
+id: sdk-tigopesa-python
+entity_type: sdk
+category: sdk
+name: Tigo Pesa Python
+provider: Tigo Pesa
+region: East Africa
+countries:
+  - Tanzania
+languages:
+  - Python
+integration_types:
+  - API
+  - SDK
+maintainer_type: community
+repo_url: https://github.com/Kalebu/tigopesa
+docs_url: https://github.com/Kalebu/tigopesa
+website_url: null
+status: active
+notes: Community Python library for Tigo Pesa integration.
+tags:
+  - tigo-pesa
+  - python
+  - sdk
