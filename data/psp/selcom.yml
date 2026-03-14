@@ -1,0 +1,24 @@
+id: provider-selcom
+entity_type: provider
+category: psp
+name: Selcom
+provider: null
+region: East Africa
+countries:
+  - Tanzania
+languages:
+  - Laravel
+  - PHP
+integration_types:
+  - API
+  - SDK
+maintainer_type: official
+repo_url: null
+docs_url: null
+website_url: https://selcom.net
+status: active
+notes: PSP with a community Laravel package listed in this repository.
+tags:
+  - selcom
+  - tanzania
+  - psp

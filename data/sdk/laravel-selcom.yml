@@ -1,0 +1,24 @@
+id: sdk-laravel-selcom
+entity_type: sdk
+category: sdk
+name: Laravel Selcom
+provider: Selcom
+region: East Africa
+countries:
+  - Tanzania
+languages:
+  - Laravel
+  - PHP
+integration_types:
+  - API
+  - SDK
+maintainer_type: community
+repo_url: https://github.com/bryceandy/laravel-selcom
+docs_url: https://github.com/bryceandy/laravel-selcom
+website_url: null
+status: active
+notes: Community Laravel package for Selcom integrations.
+tags:
+  - selcom
+  - laravel
+  - tanzania

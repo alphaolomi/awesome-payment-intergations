@@ -1,0 +1,24 @@
+id: sdk-laravel-pesa
+entity_type: sdk
+category: sdk
+name: Laravel Pesa
+provider: M-Pesa (Vodacom)
+region: East Africa
+countries:
+  - Tanzania
+languages:
+  - Laravel
+  - PHP
+integration_types:
+  - API
+  - SDK
+maintainer_type: community
+repo_url: https://github.com/openpesa/laravel-pesa
+docs_url: https://github.com/openpesa/laravel-pesa
+website_url: null
+status: active
+notes: Laravel wrapper for M-Pesa OpenAPI.
+tags:
+  - mpesa
+  - laravel
+  - openapi

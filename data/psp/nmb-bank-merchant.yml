@@ -1,0 +1,23 @@
+id: provider-nmb-bank-merchant
+entity_type: provider
+category: bank-api
+name: NMB Bank Merchant Gateway
+provider: null
+region: East Africa
+countries:
+  - Tanzania
+languages:
+  - Python
+integration_types:
+  - API
+  - SDK
+maintainer_type: official
+repo_url: null
+docs_url: null
+website_url: https://nmbbank.co.tz
+status: active
+notes: Bank payment gateway represented in the catalogue through a Django integration package.
+tags:
+  - nmb
+  - bank-api
+  - tanzania

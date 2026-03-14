@@ -4,32 +4,32 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Africa-First Discovery',
     Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Explore payment integrations using a regional path: region, country,
+        provider, and implementation language.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Structured Catalogue',
     Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Data records are maintained in YAML to support future filtering,
+        automation, and an API-ready catalogue.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Community-Powered',
     Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Contributions can be tagged as <code>official</code> or{' '}
+        <code>community</code> to keep source quality transparent.
       </>
     ),
   },

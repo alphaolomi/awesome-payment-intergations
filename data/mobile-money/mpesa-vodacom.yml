@@ -1,0 +1,23 @@
+id: provider-mpesa-vodacom
+entity_type: provider
+category: mobile-money
+name: M-Pesa (Vodacom)
+provider: null
+region: East Africa
+countries:
+  - Tanzania
+languages:
+  - HTTP API
+integration_types:
+  - API
+  - Push USSD
+maintainer_type: official
+repo_url: null
+docs_url: null
+website_url: https://vodacom.co.tz
+status: active
+notes: Mobile money rail used by multiple community SDKs listed in this repository.
+tags:
+  - mpesa
+  - tanzania
+  - mobile-money

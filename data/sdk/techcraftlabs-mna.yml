@@ -1,0 +1,22 @@
+id: sdk-techcraftlabs-mna
+entity_type: sdk
+category: utility
+name: Techcraftlabs MNA
+provider: null
+region: East Africa
+countries:
+  - Tanzania
+languages:
+  - Go
+integration_types:
+  - Utility
+maintainer_type: community
+repo_url: https://github.com/techcraftlabs/mna
+docs_url: https://github.com/techcraftlabs/mna
+website_url: null
+status: active
+notes: Utility package for identifying mobile number assignment in Tanzania.
+tags:
+  - utility
+  - tanzania
+  - mna
