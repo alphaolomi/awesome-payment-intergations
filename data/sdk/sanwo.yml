@@ -1,0 +1,48 @@
+id: sanwo
+entity_type: sdk
+category: sdk
+name: Sanwo
+provider: Multi-provider (Paystack, Flutterwave, Razorpay, Monnify, Interswitch)
+region: Pan-African / Global
+countries:
+  - Nigeria
+  - Ghana
+  - South Africa
+  - Kenya
+  - India
+languages:
+  - TypeScript
+  - JavaScript
+  - Dart
+  - Swift
+  - Kotlin
+integration_types:
+  - SDK
+  - Hosted Checkout
+  - Plugin
+maintainer_type: community
+repo_url: https://github.com/Sanwohq
+docs_url: https://docs.sanwo.dev
+website_url: https://sanwo.dev
+status: active
+notes: >-
+  Universal payment SDK — one interface for every payment provider.
+  Native SDKs for Web, React, Vue, Svelte, React Native, Flutter, iOS, and Android.
+  No-code integrations for Shopify, WordPress, Webflow, Wix, and Squarespace.
+  Supports custom provider templates.
+tags:
+  - universal
+  - multi-provider
+  - paystack
+  - flutterwave
+  - razorpay
+  - monnify
+  - interswitch
+  - react
+  - react-native
+  - flutter
+  - ios
+  - android
+  - shopify
+  - wordpress
+  - open-source
