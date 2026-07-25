@@ -39,6 +39,18 @@ This repository is organized for regional discovery:
 - SDK (PHP) - [Zepson-Technologies/dpo-php](https://github.com/Zepson-Technologies/dpo-php) (`community`)
 - SDK (Laravel) - [Zepson-Technologies/dpo-laravel](https://github.com/Zepson-Technologies/dpo-laravel) (`community`)
 
+#### Sanwo
+- Universal SDK (TypeScript/JS) - [Sanwohq/core](https://github.com/Sanwohq/core) (`community`)
+- SDK (React) - [@sanwohq/react](https://www.npmjs.com/package/@sanwohq/react) (`community`)
+- SDK (Vue) - [@sanwohq/vue](https://www.npmjs.com/package/@sanwohq/vue) (`community`)
+- SDK (Svelte) - [@sanwohq/svelte](https://www.npmjs.com/package/@sanwohq/svelte) (`community`)
+- SDK (React Native) - [Sanwohq/react-native](https://github.com/Sanwohq/react-native) (`community`)
+- SDK (Flutter) - [Sanwohq/flutter](https://github.com/Sanwohq/flutter) (`community`)
+- SDK (iOS/Swift) - [Sanwohq/ios](https://github.com/Sanwohq/ios) (`community`)
+- SDK (Android/Kotlin) - [Sanwohq/android](https://github.com/Sanwohq/android) (`community`)
+- Plugin (Shopify) - [Sanwohq/shopify](https://github.com/Sanwohq/shopify) (`community`)
+- Plugin (WordPress) - [Sanwohq/wordpress](https://github.com/Sanwohq/wordpress) (`community`)
+
 ## Maintainer Labels
 
 - `official`: Maintained by the payment provider or vendor organization.
