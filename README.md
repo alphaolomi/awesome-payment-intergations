@@ -40,7 +40,7 @@ This repository is organized for regional discovery:
 - SDK (Laravel) - [Zepson-Technologies/dpo-laravel](https://github.com/Zepson-Technologies/dpo-laravel) (`community`)
 
 #### Sanwo
-- Universal SDK (TypeScript/JS) - [Sanwohq/core](https://github.com/Sanwohq/core) (`community`)
+- Universal SDK (TypeScript/JS) - [Sanwohq](https://github.com/Sanwohq) (`community`)
 - SDK (React) - [@sanwohq/react](https://www.npmjs.com/package/@sanwohq/react) (`community`)
 - SDK (Vue) - [@sanwohq/vue](https://www.npmjs.com/package/@sanwohq/vue) (`community`)
 - SDK (Svelte) - [@sanwohq/svelte](https://www.npmjs.com/package/@sanwohq/svelte) (`community`)
