@@ -1,0 +1,28 @@
+id: provider-inpay-inpays-net
+entity_type: provider
+category: psp
+name: InPay (inpays.net)
+provider: null
+region: West Africa
+countries:
+  - Côte d'Ivoire
+languages: []
+integration_types: []
+maintainer_type: unknown
+repo_url: null
+docs_url: null
+website_url: https://www.inpays.net/
+status: unknown
+notes: >-
+  Website advertises integrated SDK assistance for H5/apps and links Côte d'Ivoire
+  Wave, MTN MoMo and Orange Money demonstrations at
+  https://www.inpays.net/xifei.html. No protocol or integration type is marked verified;
+  no public SDK repository or detailed per-wallet API contract was verified.
+  Current production access, merchant eligibility, fees and settlement
+  must be confirmed. This is a community-researched reference to inpays.net,
+  not a tested integration or a reference to other similarly named businesses.
+tags:
+  - inpay
+  - cote-divoire
+  - west-africa
+  - mobile-money
