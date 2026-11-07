@@ -39,6 +39,13 @@ This repository is organized for regional discovery:
 - SDK (PHP) - [Zepson-Technologies/dpo-php](https://github.com/Zepson-Technologies/dpo-php) (`community`)
 - SDK (Laravel) - [Zepson-Technologies/dpo-laravel](https://github.com/Zepson-Technologies/dpo-laravel) (`community`)
 
+## West Africa
+
+### Côte d’Ivoire
+
+#### InPay (inpays.net)
+- [Provider website](https://www.inpays.net/) and [wallet payment demonstrations](https://www.inpays.net/xifei.html) — `community`-submitted reference, not an SDK. Provider integration/maintainer status is `unknown`: no public SDK repository or detailed wallet API contract was verified; confirm current access and merchant eligibility directly.
+
 ## Maintainer Labels
 
 - `official`: Maintained by the payment provider or vendor organization.
